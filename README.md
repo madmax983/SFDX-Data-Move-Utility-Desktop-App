@@ -6,7 +6,7 @@ The plugin repository:   https://github.com/forcedotcom/SFDX-Data-Move-Utility
 
 ----
 
-**The SFDMU (SFDX Data Move Utility) is advanced and very handy alternative to the traditional Salesforce Data Loader.** 
+**The SFDMU Plugin (SFDX Data Move Utility) is advanced and very handy alternative to the traditional Salesforce Data Loader.** 
 
 ----
 **This repository contains the <u>special Desktop Application</u> allows you to manage SFDMU plugin configuration files <u>from the simple and intuitive UI</u>.**
